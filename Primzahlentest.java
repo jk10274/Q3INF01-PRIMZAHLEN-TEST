@@ -3,7 +3,7 @@
  */
 public class Primzahlentest {
 
-    static int zahl = 7;
+    static int zahl = 800011;
 
     public static void main(String[] args) {
         // teste ob zahl eine primzahl ist
